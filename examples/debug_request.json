@@ -1,0 +1,9 @@
+{
+  "question": "驱动器启动时报过流告警，电流=24A，频率=50Hz，应该如何排查？",
+  "device_type": "generic_drive",
+  "context": {
+    "parameters": {
+      "voltage": 380
+    }
+  }
+}

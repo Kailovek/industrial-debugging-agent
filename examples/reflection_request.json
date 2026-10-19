@@ -1,0 +1,5 @@
+{
+  "question": "驱动器出现过压告警，voltage=900V，请给出排查建议与停止条件。",
+  "device_type": "generic_drive",
+  "context": {}
+}

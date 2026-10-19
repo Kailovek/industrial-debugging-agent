@@ -1,0 +1,8 @@
+{
+  "device_type": "generic_drive",
+  "fault_code": "OVERCURRENT_REFERENCE",
+  "symptom": "驱动器加速阶段出现过流告警",
+  "probable_cause": "可检查加速参数、机械负载与电机线路",
+  "safe_action": "保持设备安全状态，依据原厂资料核对加速参数并由具备资质人员复核",
+  "source": "generic-troubleshooting-reference"
+}
